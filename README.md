@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Zslez
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zslez)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zslez&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👀 I’m interested in
 
@@ -16,7 +16,7 @@ interesting and challenging projects
 
 ## 📫 How to reach me
 
-email: cristiano.sanso.04@gmail.com  
-discord: Cristiano#1234  
-instagram: cristiano_sanso  
-line: cristiano0
+- email: cristiano.sanso.04@gmail.com  
+- discord: Cristiano#1234  
+- instagram: cristiano_sanso  
+- line: cristiano0
