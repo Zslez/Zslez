@@ -16,7 +16,7 @@ interesting and challenging projects
 
 ## 📫 How to reach me
 
-- email: cristiano.sanso.04@gmail.com  
-- discord: Cristiano#1234  
-- instagram: cristiano_sanso  
+- email: cristiano.sanso.04@gmail.com
+- discord: Cristiano#1234
+- instagram: cristiano_sanso
 - line: cristiano0
