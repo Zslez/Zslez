@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @Zslez
 
-<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zslez&hide=contribs,prs&count_private=True&show_icons=True&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
-
+<!--dark-->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zslez&hide=contribs,prs&count_private=True&show_icons=True&theme=tokyonight)](https://github.com/Zslez/Zslez)
+<!--dracula-->
 
-<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zslez&hide=contribs,prs&count_private=True&show_icons=True&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zslez&theme=tokyonight)](https://github.com/Zslez/Zslez)
 
 ## 🔥 My best project
 
