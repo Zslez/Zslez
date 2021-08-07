@@ -12,15 +12,16 @@
 
 ## 👀 I’m interested in
 
-new challenges and problems
+- new challenges and problems  
+- Python 🐍
 
 ## 🔝 I’m currently
 
-mastering Python creating some advanced projects
+- mastering Python working on some advanced projects
 
 ## 💞️ I’m looking to collaborate on
 
-interesting and challenging projects
+- interesting and challenging projects
 
 ## 📫 How to reach me
 
