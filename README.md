@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Zslez
+# 👋 Hi, I’m Cristiano (@Zslez)
 
 <!--dark-->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zslez&hide=contribs,prs&count_private=True&show_icons=True&theme=tokyonight)](https://github.com/Zslez/Zslez)
