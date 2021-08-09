@@ -17,11 +17,11 @@
 
 ## 🔝 I’m currently
 
-- mastering Python working on some advanced projects
+- mastering Python working on some intermediate/advanced projects
 
 ## 💞️ I’m looking to collaborate on
 
-- interesting and challenging projects
+- anything interesting and challenging (with Python)
 
 ## 📫 How to reach me
 
