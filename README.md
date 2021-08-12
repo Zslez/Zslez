@@ -23,7 +23,7 @@
 
 ## 💞️ I’m looking to collaborate on
 
-- anything interesting and challenging (with Python)
+- interesting and challenging Python projects
 
 ## 📫 How to reach me
 
