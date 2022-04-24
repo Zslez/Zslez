@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Cristiano (@Zslez)
 
+![Visitors](https://komarev.com/ghpvc/?username=Zslez&color=blueviolet)
+
 <!--dark-->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zslez&hide=contribs,prs&count_private=True&show_icons=True&theme=tokyonight)](https://github.com/Zslez/Zslez)
 <!--dracula-->
@@ -31,5 +33,3 @@
 - discord: Cristiano#1234
 - instagram: cristiano_sanso
 - line: cristiano0
-
-![Visitors](https://komarev.com/ghpvc/?username=Zslez&color=blueviolet)
