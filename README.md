@@ -16,20 +16,17 @@
 
 ## 👀 I’m interested in
 
-- new challenges and problems  
-- Python 🐍
+- starting a new interesting project
 
 ## 🔝 I’m currently
 
-- mastering Python working on some intermediate/advanced projects
+- improving my Zuma-like game
 
 ## 💞️ I’m looking to collaborate on
 
-- interesting and challenging Python projects
+- to improve my game possibly with sounds, music and graphics, that I don't know how to make
 
 ## 📫 How to reach me
 
 - email: cristiano.sanso.04@gmail.com
-- discord: Cristiano#1234
 - instagram: cristiano_sanso
-- line: cristiano0
