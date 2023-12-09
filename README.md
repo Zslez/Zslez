@@ -20,6 +20,7 @@
 
 ## 🔝 I’m currently
 
+- creating an all-in-one of the stuff learned in some of my University courses of my first semester of Maths
 - improving my MiniMax algorithm for Ultimate Tic-Tac-Toe
 
 ## 📫 How to reach me
