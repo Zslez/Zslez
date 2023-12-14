@@ -28,3 +28,5 @@
 - Email: cristiano.sanso.04@gmail.com
 - Instagram: cristiano_sanso
 - Telegram: winston_lanark
+
+![](https://hit.yhype.me/github/profile?user_id=71793373)
