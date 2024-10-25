@@ -10,7 +10,7 @@
 
 ## 🔥 My best project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zslez&theme=tokyonight&repo=Ultimate-Tic-Tac-Toe)](https://github.com/Zslez/Mozaiku)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zslez&theme=tokyonight&repo=Ultimate-Tic-Tac-Toe)](https://github.com/Zslez/Ultimate-Tic-Tac-Toe)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zslez&theme=nord&margin-w=10&margin-h=10&row=2&column=3&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
