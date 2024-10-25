@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Cristiano (@Zslez)
+# 👋 Hi, I’m Cristiano
 
 ![Visitors](https://komarev.com/ghpvc/?username=Zslez&color=blueviolet)
 
@@ -16,12 +16,11 @@
 
 ## 👀 I’m interested in
 
-- starting a new interesting and unique project to learn new things
+- ...
 
 ## 🔝 I’m currently
 
-- creating an all-in-one of the stuff learned in some of my University courses of my first semester of Maths
-- improving my MiniMax algorithm for Ultimate Tic-Tac-Toe
+- Studying Mathematics at La Sapienza, Università di Roma
 
 ## 📫 How to reach me
 
